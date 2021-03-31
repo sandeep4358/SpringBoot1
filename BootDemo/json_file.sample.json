@@ -1,0 +1,19 @@
+{
+"Uid":"1"
+"name":"AAAA",
+"email":"AAAA@A.com",
+"phoneNumber":"9898989898"
+}
+
+Now in one to many realation when we save the user with order what will happen needed to identify.
+-- when we save the oreder then oreder will save with user id.
+
+{
+"order_descrition":"APPLE iPhone 12 Pro Max (Silver, 128 GB)",
+"price":129900,
+"userinfo":[{
+"name":"AAAA",
+"email":"AAAA@A.com",
+"phoneNumber":"9898989898"
+}]
+}
