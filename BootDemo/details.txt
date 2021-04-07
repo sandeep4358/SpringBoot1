@@ -5,8 +5,8 @@
 "phoneNumber":"9898989898"
 }
 
-Now in one to many realation when we save the user with order what will happen needed to identify.
--- when we save the oreder then oreder will save with user id.
+Now in one to many relation when we save the user with order what will happen needed to identify.
+-- when we save the order then order will save with user id.
 
 {
 "order_descrition":"APPLE iPhone 12 Pro Max (Silver, 128 GB)",
